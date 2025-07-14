@@ -1,6 +1,6 @@
 # 🆘 helpnet.in – Civic Help Platform
 
-**Live Site:** [https://ravishrk124.github.io/helpnet.in](https://ravishrk124.github.io/helpnet.in)  
+**Live Site:** https://ravishrk124.github.io/helpnet_in/  
 A real-time, hyperlocal web app for civic help requests, neighborhood alerts, and community support.
 
 ---
@@ -61,7 +61,7 @@ A real-time, hyperlocal web app for civic help requests, neighborhood alerts, an
 ## 🌍 Hosting
 
 The app is hosted using **GitHub Pages** at:  
-🔗 https://ravishrk124.github.io/helpnet.in/
+🔗https://ravishrk124.github.io/helpnet_in/
 
 ---
 
